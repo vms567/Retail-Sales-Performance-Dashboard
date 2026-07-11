@@ -74,3 +74,19 @@ The primary objectives of this project are:
 - Generate business insights to support strategic decision-making.
 
 ---
+
+#  Data Cleaning Process
+
+The dataset was initially cleaned in Microsoft Excel before importing into Power BI.
+
+The following steps were performed:
+
+- Removed duplicate records.
+- Removed rows containing blank values in critical columns.
+- Verified row count before and after cleaning.
+- Standardized column names.
+- Saved the cleaned dataset as a new CSV file.
+
+The cleaned dataset was then imported into Power BI for further transformation.
+
+---

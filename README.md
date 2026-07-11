@@ -163,3 +163,54 @@ The dashboard includes the following interactive visuals:
   - Customer Gender
 
 ---
+
+# DAX Measures
+
+The following DAX measures were created for analysis:
+
+| Measure | Purpose |
+|---------|---------|
+| Total Sales | Calculates overall revenue |
+| Total Transactions | Counts total orders |
+| Average Sales | Average sales per transaction |
+| Average Discount % | Average discount provided |
+| Average Customer Age | Average age of customers |
+| Top 10 Sales Representatives | Identifies highest-performing representatives |
+| Sales (Age Group 26–35) | Calculates sales from customers aged 26–35 |
+| Female Sales with High Discount | Calculates sales where Female customers received discounts greater than 30% |
+
+---
+
+# Business Insights
+
+Based on the dashboard analysis, the following insights were identified:
+
+> Overall Performance
+
+- Total Sales reached "$49.52 Million".
+- More than "90,000 transactions" were recorded.
+- Average Sales per transaction was "$550.17".
+
+> Customer Insights
+
+- Customers aged "46+ generated the highest sales revenue."
+- Sales were distributed almost equally among Male, Female, and Other customers.
+
+> Product Insights
+
+- Movies, Toys, Books, Jewelry, Appliances and Personal Care products generated consistently high sales.
+
+> Regional Insights
+
+- Sales were recorded across multiple regions indicating a broad customer base.
+
+> Sales Representative Insights
+
+- David Smith and Michael Williams ranked among the highest-performing sales representatives.
+
+> Discount Analysis
+
+- The average discount offered was "24.91%".
+- Discounts contributed to increased sales while maintaining healthy revenue.
+
+---

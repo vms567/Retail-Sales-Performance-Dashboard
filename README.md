@@ -130,3 +130,17 @@ The Calendar table enables efficient Year, Quarter, Month, and Date-based analys
 ![Data Model](Images/Data_Model_Ss.png)
 
 ---
+
+# Dashboard KPIs
+
+The dashboard provides the following key performance indicators (KPIs):
+
+| KPI | Value |
+|------|---------:|
+| Total Sales | $49.52M |
+| Total Transactions | 90K |
+| Average Sales | $550.17 |
+| Average Discount | 24.91% |
+| Average Customer Age | 44 Years |
+
+---

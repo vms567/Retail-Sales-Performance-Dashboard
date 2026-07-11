@@ -60,3 +60,17 @@ The following dashboard provides an interactive overview of retail sales perform
 ![Retail Sales Dashboard](Images/Retail_sales_dashboard_SS.png)
 
 ---
+
+# Project Objectives
+
+The primary objectives of this project are:
+
+- Analyze retail sales performance from January 2024 to September 2024.
+- Identify top-performing product categories.
+- Analyze customer purchasing behavior based on age and gender.
+- Evaluate regional sales performance.
+- Measure the impact of discounts on sales.
+- Identify the top-performing sales representatives.
+- Generate business insights to support strategic decision-making.
+
+---

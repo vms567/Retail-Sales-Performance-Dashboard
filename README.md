@@ -214,3 +214,17 @@ Based on the dashboard analysis, the following insights were identified:
 - Discounts contributed to increased sales while maintaining healthy revenue.
 
 ---
+
+# Business Recommendations
+
+Based on the analysis, the following recommendations are suggested:
+
+- Increase inventory for top-selling product categories.
+- Focus marketing campaigns on customers aged 46 and above.
+- Reward high-performing sales representatives through incentive programs.
+- Optimize discount strategies to improve profitability.
+- Expand marketing efforts in high-performing regions.
+- Improve customer retention through loyalty programs.
+- Continue monitoring monthly sales trends for seasonal planning.
+
+---

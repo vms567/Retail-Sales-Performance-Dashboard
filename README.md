@@ -144,3 +144,22 @@ The dashboard provides the following key performance indicators (KPIs):
 | Average Customer Age | 44 Years |
 
 ---
+
+# 📊 Dashboard Visualizations
+
+The dashboard includes the following interactive visuals:
+
+- KPI Cards
+- Monthly Sales Trend
+- Sales by Product Category
+- Sales by Region (Map)
+- Sales by Customer Age Group
+- Top 10 Sales Representatives
+- Customer Gender Distribution
+- Interactive Slicers for:
+  - Product Category
+  - Sales Region
+  - Month
+  - Customer Gender
+
+---

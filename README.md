@@ -52,3 +52,11 @@ The dashboard enables stakeholders to monitor sales performance and make data-dr
 - Sales Region
 
 ---
+
+# 📊 Dashboard Preview
+
+The following dashboard provides an interactive overview of retail sales performance.
+
+![Retail Sales Dashboard](Images/Retail_sales_dashboard_SS.png)
+
+---

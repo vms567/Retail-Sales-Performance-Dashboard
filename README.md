@@ -106,3 +106,27 @@ The following transformations were performed in Power Query:
 - Renamed columns for better readability.
 
 ---
+
+# Data Model
+
+A star schema data model was implemented to support efficient reporting and time-based analysis.
+
+>Tables Used
+
+Fact Table
+- Sales_Data
+
+Dimension Table
+- Calendar
+
+>Relationship
+
+- Sales_Data[Order Date] → Calendar[Date]
+- Relationship Type: Many-to-One (*:1)
+- Cross Filter Direction: Single
+
+The Calendar table enables efficient Year, Quarter, Month, and Date-based analysis.
+
+![Data Model](Images/Data_Model.png)
+
+---

@@ -228,3 +228,57 @@ Based on the analysis, the following recommendations are suggested:
 - Continue monitoring monthly sales trends for seasonal planning.
 
 ---
+
+# Repository Structure
+
+```
+Retail-Sales-Performance-Dashboard
+│
+├── Dataset
+│   ├── RetailSalesdata_Raw.csv
+│   └── RetailSalesData_Cleaned.csv
+│
+├── Images
+│   ├── Retail_sales_dashboard_SS.png
+│   └── Data_Model.png
+│
+├── PowerBI
+│   └── Retail_sales_dashboard.pbix
+│
+├── Documentation
+│   ├── Retail_sales_Full_Report.pdf
+│   ├── Business_Insights_Report.pdf
+│   └── Business_Recommendations_Report.pdf
+│
+└── README.md
+```
+
+---
+
+# About the Author
+
+"Vikas Gaikwad"
+
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using:
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- SQL
+- Python
+- Microsoft Excel
+
+> Connect with me
+
+- LinkedIn: www.linkedin.com/in/vikasgaikwad7478
+- GitHub: https://github.com/vms567
+
+---
+
+# Conclusion
+
+This project demonstrates an end-to-end Business Intelligence workflow, beginning with data cleaning in Excel, followed by data transformation in Power Query, data modeling, DAX calculations, interactive dashboard development, and business insight generation using Microsoft Power BI.
+
+The project showcases practical skills in data analysis, visualization, and business decision support, making it suitable as a portfolio project for Data Analyst roles.
+
+

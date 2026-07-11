@@ -127,6 +127,6 @@ Dimension Table
 
 The Calendar table enables efficient Year, Quarter, Month, and Date-based analysis.
 
-![Data Model](Images/Data_Model.png)
+![Data Model](Images/Data_Model_Ss.png)
 
 ---

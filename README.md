@@ -90,3 +90,19 @@ The following steps were performed:
 The cleaned dataset was then imported into Power BI for further transformation.
 
 ---
+
+# Power Query Transformations
+
+The following transformations were performed in Power Query:
+
+- Changed data types.
+- Sorted Order Date in ascending order.
+- Created Year column.
+- Created Quarter column.
+- Created Month Name column.
+- Created Month Number column.
+- Created Age Group column.
+- Created Discount Category column.
+- Renamed columns for better readability.
+
+---

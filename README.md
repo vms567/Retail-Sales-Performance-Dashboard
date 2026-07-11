@@ -53,7 +53,7 @@ The dashboard enables stakeholders to monitor sales performance and make data-dr
 
 ---
 
-# 📊 Dashboard Preview
+# Dashboard Preview
 
 The following dashboard provides an interactive overview of retail sales performance.
 
